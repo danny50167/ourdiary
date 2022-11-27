@@ -1,0 +1,16 @@
+.btn{
+  display: inline-flex;
+  padding: 2em;
+  margin: 2em;
+  /* border: rgb(203, 203, 203) 2px solid; */
+  border-radius: 0.8em;
+  text-decoration: none;
+  color: black
+}
+/* 
+.khm {
+  /* background-color: pink; 
+}
+.lsw {
+  background-color: skyblue;
+} */

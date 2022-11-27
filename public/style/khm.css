@@ -1,0 +1,36 @@
+#btn_newDiary {
+  padding: 2em 3em;
+  margin-top: 2em;
+  margin-bottom: 1em;
+  background: none;
+  border: rgb(182, 182, 182) 2px solid;
+  border-radius: 0.7em;
+}
+
+#diarys {
+  text-align: center;
+  display: inline-flex;
+}
+
+.div_diary {
+  width: 10em;
+  height: 12em;
+  border-radius: 0.7em;
+  padding: 1em;
+  border: rgb(182, 182, 182) 2px solid;
+  overflow: hidden;
+  margin: 1em;
+}
+
+.diary_title {
+  color: black;
+  font-size: 1.05em;
+  font-weight: 600;
+  text-overflow: ellipsis ellipsis;
+}
+
+.diary_content {
+  word-wrap: break-all;
+  font-weight: 400;
+  padding-top: 0.5em;
+}
